@@ -212,17 +212,10 @@ footer p{
         width: 100%;
         min-height: 100vh;
     }
-    .navbar-toggler{
+    /* .navbar-toggler{
         margin-left: 33px;
-    }
-    #particles-js{
-        width: 100%;
-        min-height: 100vh;
-        position: absolute;
-        top: 0;
-        left: 0;
-        background: #1e10e0;
-    }
+    } */
+   
     footer{
         width: 100%;
         height: auto;
