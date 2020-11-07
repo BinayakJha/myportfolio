@@ -207,7 +207,7 @@ footer p{
     background-color: black;
     color: white;
 }
-@media only screen and (max-width: 768px){
+/* @media only screen and (max-width: 768px){
     #home{
         width: 100%;
         min-height: 100vh;
@@ -280,4 +280,4 @@ footer p{
 }
 .title{
     text-align: center;
-}
+} */
