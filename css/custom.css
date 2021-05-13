@@ -131,6 +131,18 @@ body{
     color: #fff;
     text-decoration: none;
 }
+
+/* PROGRESS */
+.progress {
+    display: -ms-flexbox;
+    display: flex;
+    height: 1.2rem;
+    overflow: hidden;
+    line-height: 0;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+}
 /* Contact Section */
 #contact{
     width: 100%;
